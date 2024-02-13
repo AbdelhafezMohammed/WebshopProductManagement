@@ -32,10 +32,12 @@
  **Start Database:**
  
  - using docker
+   
  1- Navigate to the solution root folder
  2-  Using terminal or cmd run command `docker compose up`
  
- -or install SQL Server locally and set password  for sql server `sa` user from `SqlServerConnectionString` in appsettings.json in WebShop.API 
+ -Local SQL Server
+1- Install SQL server locally and set password for sql server `sa` user from `SqlServerConnectionString` in appsettings.json in WebShop.API 
 
 
  **How to test:**
@@ -46,13 +48,13 @@
 
 # Technology stack
 
-Backend: C#, Asp.Net WebAPI,Entity Framework ,SQL Server
-Frontend: React, material UI
+Backend: C#, Asp.Net WebAPI, Entity Framework , SQL Server
+Frontend: React, Material UI
 
 
 # Tooling
 
-VSCode, Visal Studio
+VSCode, Visual Studio
 SQL Server
 Docker
 Dotnet SDK V 7.0.405
