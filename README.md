@@ -49,6 +49,7 @@
 # Technology stack
 
 Backend: C#, Asp.Net WebAPI, Entity Framework , SQL Server
+
 Frontend: React, Material UI
 
 
