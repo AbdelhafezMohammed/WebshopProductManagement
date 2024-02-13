@@ -33,10 +33,14 @@
  
  - using docker
    
+   
  1- Navigate to the solution root folder
+ 
  2-  Using terminal or cmd run command `docker compose up`
  
+ 
  -Local SQL Server
+ 
 1- Install SQL server locally and set password for sql server `sa` user from `SqlServerConnectionString` in appsettings.json in WebShop.API 
 
 
