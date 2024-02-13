@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Webshop.API.props" />
+</Project>
