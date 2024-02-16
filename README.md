@@ -1,23 +1,21 @@
 
-# WebShopProductManagement
-
-# How run the solution:
+# How to run the solution:
 
  **Start backend using Dotnet CLI:**
  
  1- Navigate to the solution root folder
  
- 2- Using Terminal or CMD run command `dotnet restore` to retore nuget packages
+ 2- Using Terminal or CMD run the command `dotnet restore` to retore nuget packages
  
  3- Navigate to backend\Webshop.API
  
- 4- Using Terminal or CMD run command `dotnet run`
+ 4- Using Terminal or CMD run the command `dotnet run`
 
  **Start backend using  Visual Studio:**
  
  1-Open the solution file using Visual Studio
  
- 2-Build the solution that will automatically restore nuget packages
+ 2-Build the solution that will automatically restore Nuget packages
  
  3-Run the project using F5 or from Solution Explorer right click on Webshop.API >Debug>Start New Instance
 
@@ -36,7 +34,7 @@
    
  1- Navigate to the solution root folder
  
- 2-  Using terminal or cmd run command `docker compose up`
+ 2-  Using the terminal or cmd run command `docker compose up`
  
  
  -Local SQL Server
@@ -52,7 +50,7 @@
 
 # Technology stack
 
-Backend: C#, Asp.Net WebAPI, Entity Framework , SQL Server
+Backend: C#, Asp.Net WebAPI, Entity Framework, SQL Server
 
 Frontend: React, Material UI
 
@@ -60,10 +58,15 @@ Frontend: React, Material UI
 # Tooling
 
 VSCode, Visual Studio
-SQL Server
+
+MS SQL Server
+
 Docker
+
 Dotnet SDK V 7.0.405
+
 NPM
+
 Dotnet CLI
 
 
