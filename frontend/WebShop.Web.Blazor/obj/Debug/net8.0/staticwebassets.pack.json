@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\obj\\Debug\\net8.0\\compressed\\gr9c0xp0qv.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebShop.Web.Blazor.styles.css",
+      "PackagePath": "staticwebassets\\WebShop.Web.Blazor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\moham\\source\\repos\\WebshopProductManagement\\frontend\\WebShop.Web.Blazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebShop.Web.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebShop.Web.Blazor.props",
+      "PackagePath": "build\\WebShop.Web.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebShop.Web.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\WebShop.Web.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebShop.Web.Blazor.props",
+      "PackagePath": "buildTransitive\\WebShop.Web.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

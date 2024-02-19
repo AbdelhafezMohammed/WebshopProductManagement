@@ -1,0 +1,78 @@
+﻿@page "/"
+@inject HttpClient Http
+
+
+<PageTitle>Products</PageTitle>
+
+<h1>Products</h1>
+
+<button class="btn btn-primary mb-3">
+    Create
+</button>
+
+@if (products == null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (products.Count == 0)
+{
+    <p><em>No Products found</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Adjusted Price</th>
+                <th>Stock Quantity</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in products)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price</td>
+                    <td>@(product.AdjustedPrice is null ? 0 : product.AdjustedPrice)</td>
+                    <td>@product.StockQuantity</td>
+                    <td>
+                        <button class="btn btn-primary">
+                            <i class="fas fa-edit">Edit</i> <!-- FontAwesome edit icon -->
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<ProductView> products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var response = await Http.GetAsync("http://localhost:5150/api/Products");
+        if (response.IsSuccessStatusCode)
+        {
+            products = await response.Content.ReadFromJsonAsync<List<ProductView>>();
+
+        }
+    }
+
+    public class ProductView
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public double Price { get; set; }
+        public double? AdjustedPrice { get; set; }
+        public int StockQuantity { get; set; }
+    }
+}

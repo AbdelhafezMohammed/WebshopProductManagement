@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\bin\Debug\net8.0\WebShop.Data.deps.json
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\bin\Debug\net8.0\WebShop.Data.runtimeconfig.json
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\bin\Debug\net8.0\WebShop.Data.dll
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\bin\Debug\net8.0\WebShop.Data.pdb
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.AssemblyInfo.cs
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.sourcelink.json
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.dll
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\refint\WebShop.Data.dll
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.pdb
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\WebShop.Data.genruntimeconfig.cache
+C:\Users\moham\source\repos\WebshopProductManagement\backend\WebShop.Data\obj\Debug\net8.0\ref\WebShop.Data.dll
